@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "name": "Leonardo Amon",
+      "email": "leoamonn@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "João amon",
+      "email": "joaozinho.amon@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "Elaine Amon",
+      "email": "elaineamon@gmail.com",
+      "id": 5
+    }
+  ]
+}
